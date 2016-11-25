@@ -4,6 +4,8 @@ Ejercicio de leer una cadena con informacion de ubigeo, interpretarlo y mostrarl
 
 # TODO
 
-Generar nuevas data en base al evento del boton "Interpretar"
-Validaciónes al aplicar el lexer
-Pruebas unitarias
+. Generar nuevas data en base al evento del boton "Interpretar"
+
+. Validaciónes al aplicar el lexer
+
+. Pruebas unitarias
